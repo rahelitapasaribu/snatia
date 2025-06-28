@@ -20,7 +20,7 @@ Dalam proyek ini, kami membangun pipeline NLP yang meliputi:
 
 * **Sumber:** [Kaggle – 10K Dataset Sentiment Mobile JKN](https://www.kaggle.com/datasets/diahmariatululya/10k-dataset-sentiment-mobile-jkn)
 * **Total sampel:** 10.000 ulasan
-* **Label sentimen:** `positive`, `negative`, `neutral`
+* **Label sentimen:** `positif`, `negatif`, `netral`
 * **File CSV:** `sentimen_mobileJKN.csv`
 
 ## 🛠️ Metodologi
@@ -46,8 +46,6 @@ Dalam proyek ini, kami membangun pipeline NLP yang meliputi:
 * scikit-learn TF-IDF Vectorizer
 
 ## 🙋‍♀️ Author
-Rahelita Pasaribu - Mahasiswa Informatika, Universitas Udayana  
-Proyek ini disusun untuk Seminar Nasional Teknologi dan Informatika (SNATIA) 2025
+Rahelita Pasaribu - Informatics Student, Universitas Udayana  
 
-
-> This project was created to fulfill one of the requirements for graduation from the computer science major.
+> This project was prepared for an article to be uploaded to JNATIA and was developed to fulfill a graduation requirement for the Computer Science major.
