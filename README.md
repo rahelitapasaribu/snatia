@@ -19,7 +19,7 @@ Dalam proyek ini, kami membangun pipeline NLP yang meliputi:
 ## 📁 Dataset
 
 * **Sumber:** [Kaggle – 10K Dataset Sentiment Mobile JKN](https://www.kaggle.com/datasets/diahmariatululya/10k-dataset-sentiment-mobile-jkn)
-* **Total sampel:** 10.000 ulasan
+* **Total sampel:** 10.000 ulasan, setelah netral dihapus menjadi 9.848 ulasan
 * **Label sentimen:** `positif`, `negatif`, `netral`
 * **File CSV:** `sentimen_mobileJKN.csv`
 
